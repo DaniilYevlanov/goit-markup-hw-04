@@ -196,7 +196,7 @@
    .privilege-item {
       flex-basis: calc((100% - 72px) / 4);
    }
-      .advantage-icon {
+      .privelege-icon {
          display: flex;
          align-items: center;
          justify-content: center;
@@ -208,7 +208,7 @@
          background-color: var(--light-clr);
       }
 
-      .advantage-img {
+      .privelege-img {
          width: 64px;
          height: 64px;
       }
