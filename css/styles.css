@@ -372,6 +372,7 @@ svg {
 
 .customers-link:hover,
 .customers-link:focus {
+   color: var(--pressed-state-clr);
    border-color: var(--pressed-state-clr);
 }
 
